@@ -1,6 +1,6 @@
 Hello! 👋
 
-I'm Marcel, a doctoral student at the [Fritz Haber Institute](https://fhi.mpg.de) (in the [NOMAD Laboratory](https://nomad-lab.eu)) and [TU Berlin](https://www.tu.berlin) (in the [Machine Learning group)](https://www.ml.tu-berlin.de/menue/machine_learning/). 
+I'm Marcel, a doctoral student at the [Fritz Haber Institute](https://fhi.mpg.de) (in the [NOMAD Laboratory](https://nomad-lab.eu)) and [TU Berlin](https://www.tu.berlin) (in the [Machine Learning group](https://www.ml.tu-berlin.de/menue/machine_learning/)).
 
 I work on applying machine learning to materials science problems. [cmlkit](https://marcel.science/cmlkit) is a small toolkit for that purpose!
 

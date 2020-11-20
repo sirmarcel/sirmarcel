@@ -10,5 +10,6 @@ Here are some other places on the internet you can have a look at:
 - [I'm also on gitlab](https://gitlab.com/sirmarcel) (the activity graph on there is also a bit more... filled 😉)
 - [marcel.science](https://marcel.science) is my science website
 - [marcel.computer](https://marcel.computer) is my personal website
+- [here's my google scholar profile page](https://scholar.google.com/citations?user=NNCidQsAAAAJ&hl=en)
 
 Thanks for stopping by 🚀
